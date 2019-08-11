@@ -8,14 +8,20 @@ George Njoroge(11/8/2019)
 ## The user can:
 
 See various blog posts
+
 View blogposts they like
+
 See the latests posts
+
 Subscribe to latest post service
 
 ## Setup/Installation Requirements
 Prerequisites
+
 python3.6
+
 pip
+
 Virtual environment(virtual)
 
 ## Cloning and running
