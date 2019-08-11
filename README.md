@@ -44,3 +44,16 @@ Run the application:
 
     $ chmod a+x start.sh
     $ ./start.sh
+
+## Testing the Application
+To run the tests for the class files:
+
+    $ python3.6 manage.py test
+    
+## Technologies Used
+
+Python 3.6
+
+Flask
+
+bootstrap
