@@ -5,24 +5,30 @@ This is a web application that allows users to express themselves using a blog p
 ## Author
 George Njoroge(11/8/2019)
 
+## links
+Github link:
+
+Live link:
+
 ## The user can:
 
-See various blog posts
+* See various blog posts
 
-View blogposts they like
+* View blogposts they like
 
-See the latests posts
+* See the latests posts
 
-Subscribe to latest post service
+* Subscribe to latest post service
 
 ## Setup/Installation Requirements
-Prerequisites
 
-python3.6
+* Prerequisites
 
-pip
+* python3.6
 
-Virtual environment(virtual)
+* pip
+
+* Virtual environment(virtual)
 
 ## Cloning and running
 Clone the application using git clone(this copies the app onto your device). In terminal:
@@ -52,11 +58,11 @@ To run the tests for the class files:
 
 ## Technologies Used
 
-Python 3.6
+* Python 3.6
 
-Flask
+* Flask
 
-bootstrap
+* bootstrap
 
 ## BDD
 
