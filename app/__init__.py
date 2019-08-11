@@ -27,13 +27,13 @@ def create_app(config_name):
 
     # Setting up app configurations
     app.config.from_object(config_options[config_name])
-    
+
     # Initialize flask extensions
     db.init_app(app)
     bootstrap.init_app(app)
     configure_uploads(app,photos)
     login_manager.init_app(app)
-    
+
 
     # Import app blueprints
     from .main import main as main_blueprint
@@ -45,4 +45,3 @@ def create_app(config_name):
 
 
     return app
-
