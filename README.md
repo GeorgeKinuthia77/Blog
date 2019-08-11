@@ -6,7 +6,7 @@ This is a web application that allows users to express themselves using a blog p
 George Njoroge(11/8/2019)
 
 ## links
-Github link:
+Github link:https://github.com/GeorgeKinuthia77/Blog
 
 Live link:
 
