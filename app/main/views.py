@@ -15,7 +15,7 @@ def index():
     """
     new = Blog.query.all()
     return render_template('index.html',new = new)
-    
+
 
 @main.route('/user/<uname>')
 def profile(uname):
