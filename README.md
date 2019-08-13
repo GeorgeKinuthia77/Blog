@@ -8,7 +8,7 @@ George Njoroge(11/8/2019)
 ## links
 Github link:https://github.com/GeorgeKinuthia77/Blog
 
-Live link:
+Live link:https://gnjoro-blog.herokuapp.com/
 
 ## The user can:
 
