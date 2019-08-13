@@ -14,7 +14,8 @@ class Config:
     UPLOADED_PHOTOS_DEST ='app/static/photos'
 
 class ProdConfig(Config):
-    SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
+     SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
+
 
 class DevConfig(Config):
     SQLALCHEMY_DATABASE_URI ='postgresql+psycopg2://george:PTEXPTEX61@localhost/vlog'
