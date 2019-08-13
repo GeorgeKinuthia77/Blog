@@ -13,8 +13,8 @@ def index():
     """
     View root page function that returns the index page
     """
-    new = Blog.query.all()
-    return render_template('index.html',new = new)
+    # new = Blog.query.all()
+    return render_template('index.html')
 
 
 @main.route('/user/<uname>')
